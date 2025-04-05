@@ -12,7 +12,7 @@ logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(
 logger = logging.getLogger(__name__)
 
 # Constants
-MODEL_PATH = r"C:\Users\HP\Documents\sfgr\archive\signatures\xgboost_model.pkl"
+MODEL_PATH = "xgboost_model.pkl"
 
 
 # Custom CSS for professional styling
