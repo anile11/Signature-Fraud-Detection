@@ -1,7 +1,7 @@
-streamlit==1.33.0
-opencv-python==4.9.0.80
-numpy==1.24.4
-scikit-image==0.21.0
-joblib==1.3.2
-Pillow==10.2.0
-xgboost==2.0.3
+streamlit
+opencv-python
+numpy
+scikit-image
+joblib
+Pillow
+xgboost
